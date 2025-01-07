@@ -49,6 +49,3 @@ keyfile*: privkey.pem
 
 Enjoy using **Bookstack**! 😊
 
---- 
-
-Let me know if you need further refinements or help!
