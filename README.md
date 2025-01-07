@@ -5,6 +5,7 @@
 ### 2. Navigate to Settings → Add-ons  
 
 2.1 Install **MariaDB**.  
+
 2.1.1 Once the installation is complete, open **MariaDB**.  
 2.1.2 Go to the **Configuration** tab.  
 2.1.3 Under **Databases**, enter `bookstack` and add it.  
@@ -24,6 +25,7 @@
 2.2 Install **PhpMyAdmin**.  
 
 2.3 Install **Bookstack**.  
+
 2.3.1 Go to the **Configuration** tab.  
 2.3.2 Update the configuration as follows:
 ```yaml
