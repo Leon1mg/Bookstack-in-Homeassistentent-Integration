@@ -3,20 +3,21 @@
 ---
 
 ### 2. Navigate to Settings → Add-ons  
-2.1.1 Install **MariaDB**.  
-2.1.2 Once the installation is complete, open **MariaDB**.  
-2.1.3 Go to the **Configuration** tab.  
-2.1.4 Under **Databases**, enter `bookstack` and add it.  
-2.1.5 Under **Logins**, change the username and password to your preferred values.  
-2.1.6 Add the following code under **Rights**:  
+
+2.1 Install **MariaDB**.  
+2.1.1 Once the installation is complete, open **MariaDB**.  
+2.1.2 Go to the **Configuration** tab.  
+2.1.3 Under **Databases**, enter `bookstack` and add it.  
+2.1.4 Under **Logins**, change the username and password to your preferred values.  
+2.1.5 Add the following code under **Rights**:  
 ```yaml
 - database: bookstack
   username: your_username
   password: your_password
   allow_external_connections: true
 ```
-2.1.7 Save the changes.  
-2.1.8 Start **MariaDB**.
+2.1.6 Save the changes.  
+2.1.7 Start **MariaDB**.
 
 ---
 
