@@ -24,6 +24,8 @@
 
 2.2 Install **PhpMyAdmin**.  
 
+---
+
 2.3 Install **Bookstack**.  
 
 2.3.1 Go to the **Configuration** tab.  
